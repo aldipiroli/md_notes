@@ -20,7 +20,7 @@ A simple script to organize markdown notes written in Python.
     #
     date: 16/06/2023 - 16:51:37
 
-    tags: #tag1 #tag2 #tag3 
+    tags: #note 
     #
     ```
 

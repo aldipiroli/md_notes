@@ -1,0 +1,4 @@
+DATA_STORAGE:
+  BASE_PATH: "data"
+  BASE_NOTE_NAME: "note"
+  USE_NOTE_ID: False

@@ -1,10 +1,10 @@
 # MD Notes
 
 <p align="center">
-A simple script to organize markdown notes written in Python.<br>
 <img src="img/MDNotes.png" alt="drawing" width="200"/>
 </p>
 
+A simple script to organize markdown notes written in Python.
 ## Getting started
 - Clone this repo
     ```
